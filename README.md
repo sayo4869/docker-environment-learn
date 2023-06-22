@@ -32,3 +32,10 @@ poetry new poetry-sample
 ```
 
 ## docker を使った python 環境構築
+
+mac: https://docs.docker.jp/docker-for-mac/install.html
+win: https://docs.docker.jp/docker-for-windows/install.html
+
+## database 接続
+
+https://qiita.com/arkuchy/items/75799665acd09520bed2
